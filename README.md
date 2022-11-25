@@ -5,15 +5,11 @@
 
 <a href="mailto:eldamri@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a> / <a href="https://narskash.github.io/Narskash/">GitHub</a>
 
-
-
-:man_student: ## ACTUALMENTE ESTOY APRENDIENDO
+## :man_student: ACTUALMENTE ESTOY APRENDIENDO
 
 **Testing de Software** Espacio Educa
 
 **Excel: Fórmulas y Funciones** Unab
-
-
 
 ## :mortar_board: FORMACIÓN
 
@@ -22,8 +18,6 @@ Facultad de Arquitectura, Diseño y Urbanismo - UBA
 
 **Bachiller en Comunicación Social** *(1992 - 1998)*
 E.E.M.N. N° 1 - Julio Cortázar
-
-
 
 ## :books: CURSOS DE EXTENSIÓN
 
@@ -35,8 +29,6 @@ E.E.M.N. N° 1 - Julio Cortázar
 
 **Pre-prensa Digital** Gutenberg *(2005)*
 
-
-
 ## :art: EXPERIENCIA LABORAL
 
 RODAMIENTOS PARTICULARES S.A. *(2015 - 2022)*
@@ -47,9 +39,7 @@ CCG DISEÑO INTEGRAL *(2004 - 2015)*
 **Diseñador Gráfico**
 Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
 
-
-
-## :pencil2: HABILIDADES
+## ✏️ HABILIDADES
 
 - Diseño de marca
 - Diseño Ux
@@ -58,8 +48,6 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 - Fotografía
 - Marketing
 - Packaging
-
-:pencil2:
 
 ## :computer: HERRAMIENTAS DIGITALES
 
@@ -71,8 +59,6 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 - Word
 - Excel
 - Visual Studio Code
-
-
 <!--
 **Narskash/Narskash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
