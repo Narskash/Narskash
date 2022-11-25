@@ -1,5 +1,4 @@
 # ALEJANDRO CAPUTO
----
 *DISEÑADOR GRÁFICO, DISEÑADOR WEB & MARKETING EN BUENOS AIRES*
 
 *Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.*
@@ -7,8 +6,8 @@
 <a href="mailto:eldamri@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a> / <a href="https://narskash.github.io/Narskash/">GitHub</a>
 
 
+
 ## FORMACIÓN
----
 
 **Diseñador Gráfico** *(1999 - 2003)*
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
@@ -17,16 +16,16 @@ Facultad de Arquitectura, Diseño y Urbanismo - UBA
 E.E.M.N. N° 1 - Julio Cortázar
 
 
+
 ## ACTUALMENTE ESTOY APRENDIENDO
----
 
 **Testing de Software** Espacio Educa
 
 **Excel: Fórmulas y Funciones** Unab
 
 
+
 ## CURSOS DE EXTENSIÓN
----
 
 **Git** Espacio Educa *(2022)*
 
@@ -37,8 +36,8 @@ E.E.M.N. N° 1 - Julio Cortázar
 **Pre-prensa Digital** Gutenberg *(2005)*
 
 
+
 ## EXPERIENCIA LABORAL
----
 
 RODAMIENTOS PARTICULARES S.A. *(2015 - 2022)*
 **Administración & Marketing**
@@ -49,8 +48,8 @@ CCG DISEÑO INTEGRAL *(2004 - 2015)*
 Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
 
 
+
 ## HABILIDADES
----
 
 - Diseño de marca
 - Diseño Ux
@@ -61,8 +60,8 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 - Packaging
 
 
+
 ## HERRAMIENTAS DIGITALES
----
 
 - Illustrator
 - Photoshop
