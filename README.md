@@ -1,4 +1,4 @@
-### ALEJANDRO CAPUTO
+# ALEJANDRO CAPUTO
 ---
 *DISEÑADOR GRÁFICO, DISEÑADOR WEB & MARKETING EN BUENOS AIRES*
 
@@ -9,46 +9,43 @@
 
 ## FORMACIÓN
 ---
-1999 - 2003
-DISEÑADOR GRÁFICO
+
+**Diseñador Gráfico** *(1999 - 2003)*
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
 
-1992 - 1998
-Bachiller en Comunicación Social
+**Bachiller en Comunicación Social** *(1992 - 1998)*
 E.E.M.N. N° 1 - Julio Cortázar
 
 
-## Actualmente estoy aprendiendo...
+## ACTUALMENTE ESTOY APRENDIENDO
 ---
 
-Git Espacio Educa
+**Testing de Software** Espacio Educa
 
-Testing de Software Espacio Educa
-
-Excel: Fórmulas y Funciones Unab
-
-Diseño en Canva Unab
+**Excel: Fórmulas y Funciones** Unab
 
 
 ## CURSOS DE EXTENSIÓN
 ---
 
-2022 Community Manager Unab
+**Git** Espacio Educa *(2022)*
 
-2005 Pre-prensa digital Gutenberg
+**Diseño en Canva** Unab *(2022)*
+
+**Community Manager** Unab *(2022)*
+
+**Pre-prensa Digital** Gutenberg *(2005)*
 
 
 ## EXPERIENCIA LABORAL
 ---
 
-2015 - 2022
-RODAMIENTOS PARTICULARES S.A.
-Administración & Marketing
+RODAMIENTOS PARTICULARES S.A. *(2015 - 2022)*
+**Administración & Marketing**
 Rediseño de Isologotipo, Imagen Corporativa, Diseño Web, Publicidad, Revista Digital, Catálogos, Diseño y Maquetado de Formularios Digitales, Fotografía de Producto, Marketing.
 
-2004 - 2015
-CCG DISEÑO INTEGRAL
-Diseñador Gráfico
+CCG DISEÑO INTEGRAL *(2004 - 2015)*
+**Diseñador Gráfico**
 Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
 
 
