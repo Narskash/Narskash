@@ -76,6 +76,12 @@ Excel
 Visual Studio Code
 
 
+- 📫 How to reach me: ...
+
+/amcaputo-dg
+11 5116-3621
+eldamri@gmail.com
+Luis Guillon - Bs As
 
 
 <!--
