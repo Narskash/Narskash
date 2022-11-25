@@ -1,16 +1,14 @@
 ### ALEJANDRO CAPUTO
+---
 *DISEÑADOR GRÁFICO, DISEÑADOR WEB & MARKETING EN BUENOS AIRES*
-
-(<a href="mailto:eldamri@gmail.com">eldamri@gmail.com</a>) / (<a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a>) / (<a href="https://narskash.github.io/Narskash/">GitHub</a>)
-
 
 *Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.*
 
+<a href="mailto:eldamri@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a> / <a href="https://narskash.github.io/Narskash/">GitHub</a>
 
 
-
-FORMACIÓN
-
+## FORMACIÓN
+---
 1999 - 2003
 DISEÑADOR GRÁFICO
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
@@ -20,8 +18,8 @@ Bachiller en Comunicación Social
 E.E.M.N. N° 1 - Julio Cortázar
 
 
-
-- 🌱 I’m currently learning ...
+## Actualmente estoy aprendiendo...
+---
 
 Git Espacio Educa
 
@@ -32,22 +30,21 @@ Excel: Fórmulas y Funciones Unab
 Diseño en Canva Unab
 
 
-
-CURSOS DE EXTENSIÓN
+## CURSOS DE EXTENSIÓN
+---
 
 2022 Community Manager Unab
 
 2005 Pre-prensa digital Gutenberg
 
 
-
-EXPERIENCIA LABORAL
+## EXPERIENCIA LABORAL
+---
 
 2015 - 2022
 RODAMIENTOS PARTICULARES S.A.
 Administración & Marketing
 Rediseño de Isologotipo, Imagen Corporativa, Diseño Web, Publicidad, Revista Digital, Catálogos, Diseño y Maquetado de Formularios Digitales, Fotografía de Producto, Marketing.
-
 
 2004 - 2015
 CCG DISEÑO INTEGRAL
@@ -55,34 +52,29 @@ Diseñador Gráfico
 Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
 
 
-HABILIDADES
+## HABILIDADES
+---
 
-Diseño de marca
-Diseño Ux
-Diseño Web
-Edicion de Video
-Fotografía
-Marketing
-Packaging
-
-HERRAMIENTAS DIGITALES
-
-Illustrator
-Photoshop
-InDesign
-Acrobat
-Premiere
-Word
-Excel
-Visual Studio Code
+- Diseño de marca
+- Diseño Ux
+- Diseño Web
+- Edicion de Video
+- Fotografía
+- Marketing
+- Packaging
 
 
-- 📫 How to reach me: ...
+## HERRAMIENTAS DIGITALES
+---
 
-/amcaputo-dg
-11 5116-3621
-eldamri@gmail.com
-Luis Guillon - Bs As
+- Illustrator
+- Photoshop
+- InDesign
+- Acrobat
+- Premiere
+- Word
+- Excel
+- Visual Studio Code
 
 
 <!--
