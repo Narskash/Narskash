@@ -53,6 +53,31 @@ CCG DISEÑO INTEGRAL
 Diseñador Gráfico
 Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
 
+
+HABILIDADES
+
+Diseño de marca
+Diseño Ux
+Diseño Web
+Edicion de Video
+Fotografía
+Marketing
+Packaging
+
+HERRAMIENTAS DIGITALES
+
+Illustrator
+Photoshop
+InDesign
+Acrobat
+Premiere
+Word
+Excel
+Visual Studio Code
+
+
+
+
 <!--
 **Narskash/Narskash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
