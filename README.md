@@ -1,7 +1,8 @@
 ### ALEJANDRO CAPUTO
 *DISEÑADOR GRÁFICO, DISEÑADOR WEB & MARKETING EN BUENOS AIRES*
 
-[Markdown Guide](<a href="mailto:elcorreoquequieres@correo.com">Aquí el texto que quieras</a>)
+(<a href="mailto:eldamri@gmail.com">eldamri@gmail.com</a>) / (<a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a>) / (<a href="https://narskash.github.io/Narskash/">GitHub</a>)
+
 
 *Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.*
 
