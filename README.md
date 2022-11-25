@@ -7,7 +7,7 @@
 
 
 
-## :man_student: ACTUALMENTE ESTOY APRENDIENDO
+:man_student: ## ACTUALMENTE ESTOY APRENDIENDO
 
 **Testing de Software** Espacio Educa
 
@@ -59,7 +59,7 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 - Marketing
 - Packaging
 
-
+:pencil2:
 
 ## :computer: HERRAMIENTAS DIGITALES
 
