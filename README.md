@@ -7,7 +7,7 @@
 
 
 
-## ACTUALMENTE ESTOY APRENDIENDO
+## :man_student: ACTUALMENTE ESTOY APRENDIENDO
 
 **Testing de Software** Espacio Educa
 
@@ -15,7 +15,7 @@
 
 
 
-## :man_student: FORMACIÓN
+## :mortar_board: FORMACIÓN
 
 **Diseñador Gráfico** *(1999 - 2003)*
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
@@ -25,7 +25,7 @@ E.E.M.N. N° 1 - Julio Cortázar
 
 
 
-## CURSOS DE EXTENSIÓN
+## :books: CURSOS DE EXTENSIÓN
 
 **Git** Espacio Educa *(2022)*
 
@@ -37,10 +37,10 @@ E.E.M.N. N° 1 - Julio Cortázar
 
 
 
-## EXPERIENCIA LABORAL
+## :art: EXPERIENCIA LABORAL
 
 RODAMIENTOS PARTICULARES S.A. *(2015 - 2022)*
-**Administración & Marketing**
+**Diseñador Gráfico & Marketing**
 Rediseño de Isologotipo, Imagen Corporativa, Diseño Web, Publicidad, Revista Digital, Catálogos, Diseño y Maquetado de Formularios Digitales, Fotografía de Producto, Marketing.
 
 CCG DISEÑO INTEGRAL *(2004 - 2015)*
@@ -49,7 +49,7 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 
 
 
-## HABILIDADES
+## :pencil2: HABILIDADES
 
 - Diseño de marca
 - Diseño Ux
@@ -61,7 +61,7 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 
 
 
-## HERRAMIENTAS DIGITALES
+## :computer: HERRAMIENTAS DIGITALES
 
 - Illustrator
 - Photoshop
