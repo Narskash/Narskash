@@ -7,21 +7,21 @@
 
 
 
-## FORMACIÓN
+## ACTUALMENTE ESTOY APRENDIENDO
+
+**Testing de Software** Espacio Educa
+
+**Excel: Fórmulas y Funciones** Unab
+
+
+
+## :man_student: FORMACIÓN
 
 **Diseñador Gráfico** *(1999 - 2003)*
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
 
 **Bachiller en Comunicación Social** *(1992 - 1998)*
 E.E.M.N. N° 1 - Julio Cortázar
-
-
-
-## ACTUALMENTE ESTOY APRENDIENDO
-
-**Testing de Software** Espacio Educa
-
-**Excel: Fórmulas y Funciones** Unab
 
 
 
