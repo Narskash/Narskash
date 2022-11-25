@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ALEJANDRO CAPUTO
+DISEÑADOR GRÁFICO - MARKETING
+
+Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.
+
 <!--
 **Narskash/Narskash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
