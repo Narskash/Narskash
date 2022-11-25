@@ -40,6 +40,19 @@ CURSOS DE EXTENSIÓN
 
 
 
+EXPERIENCIA LABORAL
+
+2015 - 2022
+RODAMIENTOS PARTICULARES S.A.
+Administración & Marketing
+Rediseño de Isologotipo, Imagen Corporativa, Diseño Web, Publicidad, Revista Digital, Catálogos, Diseño y Maquetado de Formularios Digitales, Fotografía de Producto, Marketing.
+
+
+2004 - 2015
+CCG DISEÑO INTEGRAL
+Diseñador Gráfico
+Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, Estudio de Mercado.
+
 <!--
 **Narskash/Narskash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
