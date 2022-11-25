@@ -5,13 +5,13 @@
 
 <a href="mailto:eldamri@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/amcaputo-dg/">LinkedIn</a> / <a href="https://narskash.github.io/Narskash/">GitHub</a>
 
-## :man_student: ACTUALMENTE ESTOY APRENDIENDO
+## 👨‍🎓 ACTUALMENTE ESTOY APRENDIENDO
 
 **Testing de Software** Espacio Educa
 
 **Excel: Fórmulas y Funciones** Unab
 
-## :mortar_board: FORMACIÓN
+## 🎓 FORMACIÓN
 
 **Diseñador Gráfico** *(1999 - 2003)*
 Facultad de Arquitectura, Diseño y Urbanismo - UBA
@@ -19,7 +19,7 @@ Facultad de Arquitectura, Diseño y Urbanismo - UBA
 **Bachiller en Comunicación Social** *(1992 - 1998)*
 E.E.M.N. N° 1 - Julio Cortázar
 
-## :books: CURSOS DE EXTENSIÓN
+## 📚 CURSOS DE EXTENSIÓN
 
 **Git** Espacio Educa *(2022)*
 
@@ -29,7 +29,7 @@ E.E.M.N. N° 1 - Julio Cortázar
 
 **Pre-prensa Digital** Gutenberg *(2005)*
 
-## :art: EXPERIENCIA LABORAL
+## 🎨 EXPERIENCIA LABORAL
 
 RODAMIENTOS PARTICULARES S.A. *(2015 - 2022)*
 **Diseñador Gráfico & Marketing**
@@ -49,7 +49,7 @@ Diseño y desarrollo de marca, Isologotipo, Packaging, Publicidad, Diseño Web, 
 - Marketing
 - Packaging
 
-## :computer: HERRAMIENTAS DIGITALES
+## 💻 HERRAMIENTAS DIGITALES
 
 - Illustrator
 - Photoshop
