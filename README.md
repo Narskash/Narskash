@@ -1,9 +1,9 @@
-### Hi there 👋
+### ALEJANDRO CAPUTO
+*DISEÑADOR GRÁFICO, DISEÑADOR WEB & MARKETING EN BUENOS AIRES*
 
-ALEJANDRO CAPUTO
-DISEÑADOR GRÁFICO - MARKETING
+[Markdown Guide](<a href="mailto:elcorreoquequieres@correo.com">Aquí el texto que quieras</a>)
 
-Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.
+*Con más de 10 años de experiencia en el diseño y desarrollo de marcas. Sigo actualizándome en las nuevas tecnologías y formas de comunicación, con gran interés por la programación.*
 
 
 
